@@ -28,7 +28,7 @@ void main(List<String> arguments) {
   int toonies = validateInput();
 
   double total = getTotal(pennies, nickels, dimes, quarters, loonies, toonies);
-  print('total value is: $total');
+  print('Total value is: $total');
 }
 
 int validateInput() {
