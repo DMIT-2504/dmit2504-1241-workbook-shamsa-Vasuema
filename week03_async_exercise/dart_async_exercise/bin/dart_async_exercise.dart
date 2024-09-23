@@ -1,12 +1,8 @@
 import 'dart:convert';
 import 'dart:io';
-
-import 'package:dart_async_exercise/dart_async_exercise.dart'
-    as dart_async_exercise;
 import 'package:http/http.dart' as http;
 
 void main(List<String> arguments) {
-  //print('Hello world: ${dart_async_exercise.calculate()}!');
   stdout.writeln('Please enter a word:');
   var userInput = stdin.readLineSync();
   //print(userInput);
