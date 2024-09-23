@@ -1,7 +1,5 @@
 import 'dart:io';
 
-import 'package:week02_dart_four_functions/week02_dart_four_functions.dart'
-    as week02_dart_four_functions;
 
 void main(List<String> arguments) {
 //   Write a program to tally up total change from user’s pockets. The method GetTotal() will have
