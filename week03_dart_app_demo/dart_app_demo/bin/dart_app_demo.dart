@@ -31,4 +31,8 @@ Future<dynamic> getJson(String apiEndpoint) async {
 
 void getDogBreeds() async {
   var dogBreeds = await getJson('https://dog.ceo/api/breeds/list/all');
+  //after you got the completed response you can use it
+  //if only a specific type of information is needed, you can select them in the following manner:
+  print(dogBreeds['message']['terrier'][1]);
+  //you have to know how the returned json data looks like to be able to pick out the right key (message) and element (terrier), if you want to select the next or 3rd terrier from the terrier array, you need to know the index - really, anytime you need a specific array/element you need the index
 }
