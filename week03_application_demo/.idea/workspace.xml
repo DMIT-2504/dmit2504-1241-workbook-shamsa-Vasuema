@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="05a29059-ba22-4cbc-a467-d0aeda086805" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/dart_application_demo/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dart_application_demo/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dart_application_demo/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dart_application_demo/analysis_options.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dart_application_demo/bin/dart_application_demo.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dart_application_demo/lib/dart_application_demo.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dart_application_demo/pubspec.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dart_application_demo/pubspec.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dart_application_demo/test/dart_application_demo_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week01_new_dart_project_demo/lib/week01_new_dart_project_demo.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../week01_new_dart_project_demo/lib/week01_new_dart_project_demo.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,9 +18,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2mSI9HLjmHcZCWz5pUvcdzrJSPh" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -45,7 +37,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Vasue/Desktop/Mobile App Dev/dmit2504-1241-workbook-shamsa-Vasuema/week03_application_demo",
+    "last_opened_file_path": "C:/Users/Vasue/Desktop/Mobile App Dev/dmit2504-1241-workbook-shamsa-Vasuema/week02_flutter_profile_demo/flutter_profile_demo",
     "settings.editor.selected.configurable": "AndroidSdkUpdater",
     "show.migrate.to.gradle.popup": "false"
   }

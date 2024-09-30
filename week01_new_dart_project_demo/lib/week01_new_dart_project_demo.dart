@@ -2,7 +2,6 @@
 //   return 6 * 7;
 // }
 
-import 'dart:ffi';
 import 'dart:io';
 
 String prompt(String message) {
