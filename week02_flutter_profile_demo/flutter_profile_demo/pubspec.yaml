@@ -1,6 +1,6 @@
 name: flutter_profile_demo
 description: "A new Flutter project."
-publish_to: 'none'
+publish_to: "none"
 version: 0.1.0
 
 environment:
@@ -17,3 +17,7 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+
+  # ensure that assests and immage paths are added within flutter (as below)
+  assets:
+    - images\harmony.jpg
