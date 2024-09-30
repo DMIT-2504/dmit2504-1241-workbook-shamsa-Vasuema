@@ -84,7 +84,7 @@ class MainApp extends StatelessWidget {
                   //to manipulate the padding you can add a mainAxisAlignment
                   mainAxisAlignment: MainAxisAlignment
                       .center, //this centeres the text of the profileDetail widget
-                  children: [ProfileDetail('Position: ', 'Developer')])
+                  children: [ProfileDetail('Position: ', 'Food Tester')])
             ]),
       ),
     );
