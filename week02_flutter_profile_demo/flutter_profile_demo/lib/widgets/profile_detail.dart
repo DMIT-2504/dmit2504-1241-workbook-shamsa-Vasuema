@@ -33,7 +33,9 @@ class ProfileDetail extends StatelessWidget {
         ),
         Text(
           value,
-          style: const TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
+          style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold,
+          color: Theme.of(context).textTheme.bodyLarge!.color),//bodyLarge needs a nullcheck for some reason
+          
         )
       ],
     );
