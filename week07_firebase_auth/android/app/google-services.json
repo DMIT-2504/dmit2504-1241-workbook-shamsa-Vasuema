@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "253993203895",
+    "project_id": "dmit2504-vsueppmayer-project01",
+    "storage_bucket": "dmit2504-vsueppmayer-project01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253993203895:android:73a7c095d107aec69e3532",
+        "android_client_info": {
+          "package_name": "com.example.week07_firebase_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg0M7bF_-n-7mlOV-hziZ_Ue4J_inzRPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
